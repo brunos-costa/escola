@@ -1,0 +1,5 @@
+Helena - professora - R$ 4.000
+Jorge - professor - R$ 4.000
+Joaquina - diretor - R$ 6.000
+Antônio - secretário - R$ 1.200
+Josefa - merendeira - R$ 1.200
